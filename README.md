@@ -24,7 +24,7 @@ Tenho 18 anos e sou **Técnico em Desenvolvimento de Sistemas formado pelo SENAI
 
 ## 🛠️ Tecnologias e áreas
 
-- **Linguagens:** C++ e JavaScript
+- **Linguagens:** C++, c# e JavaScript
 - **Biblioteca:** React
 - **Desenvolvimento:** sites, aplicações web e mobile
 
